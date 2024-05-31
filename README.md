@@ -1,0 +1,1 @@
+Ini merupakan project yang memanfaatkan ai untuk membantu produktivitas manusia, bukan menggantikan manusia.
